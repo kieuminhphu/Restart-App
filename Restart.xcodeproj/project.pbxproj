@@ -11,6 +11,7 @@
 		EA2413BB2BABC7D100DB4E1A /* chimeup.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = EA2413B92BABC7D100DB4E1A /* chimeup.mp3 */; };
 		EA2413C32BABCE1700DB4E1A /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA2413C22BABCE1700DB4E1A /* OnboardingView.swift */; };
 		EA2413C52BABCE2900DB4E1A /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA2413C42BABCE2900DB4E1A /* HomeView.swift */; };
+		EA2413C72BABE1B500DB4E1A /* CircleGroupView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA2413C62BABE1B500DB4E1A /* CircleGroupView.swift */; };
 		EA900D5C2BABC691008C30EC /* RestartApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA900D5B2BABC691008C30EC /* RestartApp.swift */; };
 		EA900D5E2BABC691008C30EC /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA900D5D2BABC691008C30EC /* ContentView.swift */; };
 		EA900D602BABC692008C30EC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EA900D5F2BABC692008C30EC /* Assets.xcassets */; };
@@ -23,6 +24,7 @@
 		EA2413C12BABCCBA00DB4E1A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 		EA2413C22BABCE1700DB4E1A /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
 		EA2413C42BABCE2900DB4E1A /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		EA2413C62BABE1B500DB4E1A /* CircleGroupView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleGroupView.swift; sourceTree = "<group>"; };
 		EA900D582BABC691008C30EC /* Restart.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Restart.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EA900D5B2BABC691008C30EC /* RestartApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RestartApp.swift; sourceTree = "<group>"; };
 		EA900D5D2BABC691008C30EC /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 		EA2413BF2BABC91400DB4E1A /* Views */ = {
 			isa = PBXGroup;
 			children = (
+				EA2413C62BABE1B500DB4E1A /* CircleGroupView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -188,6 +191,7 @@
 				EA2413C32BABCE1700DB4E1A /* OnboardingView.swift in Sources */,
 				EA2413C52BABCE2900DB4E1A /* HomeView.swift in Sources */,
 				EA900D5E2BABC691008C30EC /* ContentView.swift in Sources */,
+				EA2413C72BABE1B500DB4E1A /* CircleGroupView.swift in Sources */,
 				EA900D5C2BABC691008C30EC /* RestartApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
